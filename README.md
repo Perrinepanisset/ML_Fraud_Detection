@@ -35,6 +35,6 @@ Training a SVM Model
 - INPUT FILE : Dataset_for_model_building.csv
 
 ### 2d.Boosting.ipynb
-Training through Boosting.
+Training thanks to AdaBoost and XGBoost
 
 - INPUT FILE : Dataset_for_model_building.csv
